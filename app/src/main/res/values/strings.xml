@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DevotIO</string>
+    <string name="game_services_project_id">464754621090</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Temples</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_calendar">Calendar</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_settings">Settings</string>
+    
+    <!-- Common strings -->
+    <string name="welcome_message">Welcome to DevotIO</string>
+    <string name="daily_prayer">Daily Prayer</string>
+    <string name="nearby_temples">Nearby Temples</string>
+    <string name="popular_bhajans">Popular Bhajans</string>
+    <string name="upcoming_festivals">Upcoming Festivals</string>
+
+    <!-- Prayer section strings -->
+    <string name="morning_prayer">Morning Prayer</string>
+    <string name="evening_prayer">Evening Prayer</string>
+    <string name="prayer_categories">Prayer Categories</string>
+    <string name="favorite_prayers">Favorite Prayers</string>
+    <string name="play_prayer">Play Prayer</string>
+    <string name="pause_prayer">Pause Prayer</string>
+    <string name="stop_prayer">Stop Prayer</string>
+    <string name="prayer_timing">Prayer Timing</string>
+    <string name="prayer_lyrics">Prayer Lyrics</string>
+    <string name="browse">Browse</string>
+
+    <!-- Temple section strings -->
+    <string name="temple_timings">Temple Timings</string>
+    <string name="temple_events">Temple Events</string>
+    <string name="temple_photos">Temple Photos</string>
+    <string name="temple_location">Location</string>
+    <string name="temple_contact">Contact</string>
+    <string name="temple_website">Website</string>
+    <string name="temple_directions">Get Directions</string>
+    <string name="temple_share">Share Temple</string>
+    <string name="temple_search">Search Temples</string>
+    <string name="temple_filter">Filter Temples</string>
+    <string name="temple_timing">Temple Timing</string>
+    <string name="temple_address">Address</string>
+    <string name="get_directions">Get Directions</string>
+    <string name="upcoming_events">Upcoming Events</string>
+    <string name="add_to_favorites">Add to Favorites</string>
+    <string name="google_maps_not_installed">Google Maps is not installed</string>
+    <string name="temple_details">Temple Details</string>
+    <string name="about_temple">About Temple</string>
+
+    <!-- Profile section strings -->
+    <string name="profile">Profile</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="preferences">Preferences</string>
+    <string name="daily_prayer_reminder">Daily Prayer Reminder</string>
+    <string name="set_reminder_time">Set Reminder Time</string>
+    <string name="account">Account</string>
+    <string name="change_password">Change Password</string>
+    <string name="logout">Logout</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="change_photo">Change Photo</string>
+    <string name="save">Save Changes</string>
+    <string name="default_web_client_id">464754621090-rb8pv4j2n01bb5gcbt1i8osv637ulrmq.apps.googleusercontent.com</string>
+    <string name="login">Login</string>
+
+    <!-- Dashboard -->
+    <string name="search_temples">Search temples</string>
+    <string name="all_temples">All Temples</string>
+    <string name="favorite_temples">Favorites</string>
+    <string name="view_on_map">View on Map</string>
+
+    <!-- Map -->
+    <string name="temple_map">Temple Map</string>
+    <string name="my_location">My Location</string>
+
+    <!-- Prayers -->
+    <string name="prayers">Prayers</string>
+    <string name="daily_prayers">Daily Prayers</string>
+    <string name="festival_prayers">Festival Prayers</string>
+    <string name="vedic_prayers">Vedic Prayers</string>
+    <string name="remove_from_favorites">Remove from Favorites</string>
+
+    <!-- New strings for temple detail screen -->
+    <string name="temple_image">Temple Image</string>
+    <string name="favorite_temple">Favorite Temple</string>
+    <string name="deity">Deity</string>
+    <string name="timing">Timing</string>
+    <string name="description">Description</string>
+    <string name="address">Address</string>
+
+    <!-- New strings for login and sign-in -->
+    <string name="login_failed">Login failed</string>
+    <string name="sign_in_with_google">Sign in with Google</string>
+
+    <!-- Category Icon -->
+    <string name="category_icon">Category Icon</string>
+
+    <!-- Settings -->
+    <string name="settings">Settings</string>
+    <string name="daily_reminder">Daily Reminder</string>
+    <string name="reminder_time">Reminder Time</string>
+
+    <!-- Prayer Player -->
+    <string name="previous_prayer">Previous Prayer</string>
+    <string name="next_prayer">Next Prayer</string>
+    <string name="play_pause_prayer">Play/Pause Prayer</string>
+
+    <!-- New strings for playlist UI -->
+    <string name="favorites">Favorites</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="seek">Seek</string>
+    <string name="playlist">Playlist</string>
+    <string name="shuffle">Shuffle</string>
+    <string name="repeat">Repeat</string>
+    <string name="repeat_one">Repeat One</string>
+    <string name="repeat_all">Repeat All</string>
+    <string name="no_repeat">No Repeat</string>
+
+    <!-- New strings for audio effects -->
+    <string name="audio_effects">Audio Effects</string>
+    <string name="playback_speed">Playback Speed</string>
+    <string name="bass_boost">Bass Boost</string>
+    <string name="treble_boost">Treble Boost</string>
+    <string name="reverb">Reverb</string>
+    <string name="loudness_enhancement">Loudness Enhancement</string>
+
+    <!-- New strings for audio errors -->
+    <string name="error_loading_audio">Error loading audio</string>
+    <string name="error_playing_audio">Error playing audio</string>
+    <string name="error_no_audio_focus">Cannot play audio at this time</string>
+</resources>
